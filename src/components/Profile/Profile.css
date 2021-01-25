@@ -33,9 +33,11 @@
 .profile__contact button {
     border-radius: 2rem;
     height: 2.5rem;
-    background-color: var(--color-1);
+    background-color: var(--color-4);
     border: none;
     color: var(--color-5);
+    font-weight: bold;
+    font-size: 1rem;
 }
 
 .profile__contact__icon {
@@ -44,6 +46,7 @@
     height: 2rem;
     width: 2rem;
     background-color: var(--color-1);
+    color: var(--color-4);
     border-radius: 2rem;
 }
 
@@ -73,4 +76,10 @@
 
 .profile__skills h2 {
     margin-left: 2rem;
+}
+
+#mouse___pointer {
+    color: var(--color-5);
+    margin-left: 1rem;
+    margin-right: 0.5rem;
 }

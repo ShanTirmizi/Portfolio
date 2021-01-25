@@ -15,8 +15,8 @@ const Projects = () => {
             <div className="projects__list">
                 <div className="projects__ind">
                     <h2>Project Name</h2>
-                    <img className='projects__pic' src='https://image.flaticon.com/icons/png/512/64/64495.png' alt='Profile Pic' />
-
+                    {/* <img className='projects__pic' src='https://image.flaticon.com/icons/png/512/64/64495.png' alt='Profile Pic' /> */}
+                        <div className="projects__pic"></div> 
                     <div className="projects__ind__link">
                         <button>Live Site</button>
                         <button>GitHub</button>
@@ -27,8 +27,8 @@ const Projects = () => {
                 </div>
                 <div className="projects__ind">
                     <h2>Project Name</h2>
-                    <img className='projects__pic' src='https://image.flaticon.com/icons/png/512/64/64495.png' alt='Profile Pic' />
-
+                    {/* <img className='projects__pic' src='https://image.flaticon.com/icons/png/512/64/64495.png' alt='Profile Pic' /> */}
+                        <div className="projects__pic"></div>    
                     <div className="projects__ind__link">
                         <button>Live Site</button>
                         <button>GitHub</button>
@@ -39,8 +39,8 @@ const Projects = () => {
                 </div>
                 <div className="projects__ind">
                     <h2>Project Name</h2>
-                    <img className='projects__pic' src='https://image.flaticon.com/icons/png/512/64/64495.png' alt='Profile Pic' />
-
+                    {/* <img className='projects__pic' src='https://image.flaticon.com/icons/png/512/64/64495.png' alt='Profile Pic' /> */}
+                        <div className="projects__pic"></div> 
                     <div className="projects__ind__link">
                         <button>Live Site</button>
                         <button>GitHub</button>
@@ -51,8 +51,8 @@ const Projects = () => {
                 </div>
                 <div className="projects__ind">
                     <h2>Project Name</h2>
-                    <img className='projects__pic' src='https://image.flaticon.com/icons/png/512/64/64495.png' alt='Profile Pic' />
-
+                    {/* <img className='projects__pic' src='https://image.flaticon.com/icons/png/512/64/64495.png' alt='Profile Pic' /> */}
+                        <div className="projects__pic"></div> 
                     <div className="projects__ind__link">
                         <button>Live Site</button>
                         <button>GitHub</button>
