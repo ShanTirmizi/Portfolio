@@ -4,4 +4,49 @@
     /* max-height: 720px; */
     border-radius: 2rem;
     height: 690px;
+    /* box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; */
+    /* box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px; */
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+
+.projects__netflix {
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    margin-top: 1rem;
+}
+
+.projects__list {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: space-evenly;
+    background-color: purple;
+    margin: 1rem;
+    border-radius: 2rem;
+    overflow: scroll;
+    height: 620px;
+}
+
+.projects__ind {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0.5rem;
+    background-color: blue;
+    border-radius: 2rem;
+}
+
+.projects__ind > p {
+    margin: 1rem;
+    padding: 1rem;
+    background-color: yellow;
+    border-radius: 2rem;
+}
+
+.projects__pic {
+    height: 15rem;
+    width: 20rem;
+    background-color: yellow;
+    padding: 0.5rem;
+    margin: 0.5rem;
+    border-radius: 2rem;
 }
