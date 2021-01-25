@@ -18,6 +18,11 @@ code {
     monospace;
 }
 
+button {
+  cursor: pointer;
+  outline: none;
+}
+
 :root {
   --color-1: #141414;
   --color-2: #162447;

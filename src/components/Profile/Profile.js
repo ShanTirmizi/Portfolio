@@ -21,11 +21,11 @@ const Profile = () => {
                 <a href="https://www.linkedin.com/in/shan-tirmizi-7b3114159/" target="_blank">
                     <GrLinkedin className="profile__contact__icon" />
                 </a>
-                <button>Contact me <FaRegHandPointer /></button>
+                <button>Contact me <FaRegHandPointer id='mouse___pointer' /></button>
             </div>
             <div className="profile__bio">
                 <h2>Bio</h2>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quaerat rerum consectetur, deserunt iusto sit voluptatem, tempora aliquam quasi eligendi libero repellat corrupti nihil cum. In amet expedita illum earum incidunt. Debitis, in hic. Natus sint aliquid debitis exercitationem perferendis maiores id culpa aperiam, incidunt fugiat, ut placeat praesentium?</p>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quaerat rerum consectetur, deserunt iusto sit voluptatem, tempora aliquam quasi eligendi libero repellat corrupti nihil cum. In amet expedita illum earum incidunt. Debitis, in hic. Natus sint aliquid debitis exercitationem perferendis maiores id culpa aperiam, incidunt fugiat, ut placeat</p>
             </div>
             <div className="profile__skills">
                 <h2>Technologies</h2>
