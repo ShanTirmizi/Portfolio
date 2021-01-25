@@ -16,10 +16,10 @@ const Profile = () => {
             <h2>Shan Tirmizi</h2>
             <div className="profile__contact">
                 <a href="https://github.com/ShanTirmizi" target="_blank">
-                    <FaGithub />
+                    <FaGithub className="profile__contact__icon"/>
                 </a>
                 <a href="https://www.linkedin.com/in/shan-tirmizi-7b3114159/" target="_blank">
-                    <GrLinkedin />
+                    <GrLinkedin className="profile__contact__icon" />
                 </a>
                 <button>Contact me <FaRegHandPointer /></button>
             </div>
